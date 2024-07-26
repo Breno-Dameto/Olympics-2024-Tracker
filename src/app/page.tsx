@@ -2,7 +2,6 @@
 
 import React from "react";
 import { useEffect, useState } from 'react';
-import { ModeToggle } from "@/components/mode-toggle";
 import { HeroSection } from "@/components/sections/hero-section";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
